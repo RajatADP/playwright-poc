@@ -5,3 +5,4 @@ trace.zip
 target
 .idea
 .DS_Store
+.allure
