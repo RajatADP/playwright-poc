@@ -1,0 +1,7 @@
+
+playwright/.auth
+trace
+trace.zip
+target
+.idea
+.DS_Store
